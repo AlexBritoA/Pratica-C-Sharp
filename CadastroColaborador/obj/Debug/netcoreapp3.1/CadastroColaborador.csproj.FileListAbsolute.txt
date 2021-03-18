@@ -1,0 +1,13 @@
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\bin\Debug\netcoreapp3.1\CadastroColaborador.exe
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\bin\Debug\netcoreapp3.1\CadastroColaborador.deps.json
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\bin\Debug\netcoreapp3.1\CadastroColaborador.runtimeconfig.json
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\bin\Debug\netcoreapp3.1\CadastroColaborador.runtimeconfig.dev.json
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\bin\Debug\netcoreapp3.1\CadastroColaborador.dll
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\bin\Debug\netcoreapp3.1\CadastroColaborador.pdb
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.csprojAssemblyReference.cache
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.AssemblyInfoInputs.cache
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.AssemblyInfo.cs
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.csproj.CoreCompileInputs.cache
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.dll
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.pdb
+C:\Users\Smerarty\OneDrive\Cursos\C#\Praticando\CadastroColaborador\CadastroColaborador\obj\Debug\netcoreapp3.1\CadastroColaborador.genruntimeconfig.cache
